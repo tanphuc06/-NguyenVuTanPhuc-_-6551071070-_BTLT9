@@ -1,0 +1,2 @@
+[2026-10-19 10:52:13 INF] Ứng dụng Quản lý nhà trọ khởi động.
+[2026-10-19 10:53:40 INF] Ứng dụng Quản lý nhà trọ kết thúc.

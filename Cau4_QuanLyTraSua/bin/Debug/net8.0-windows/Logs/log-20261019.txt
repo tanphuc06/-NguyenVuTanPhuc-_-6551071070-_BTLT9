@@ -1,0 +1,3 @@
+[2026-10-19 10:58:33 INF] Ứng dụng Bán hàng quán trà sữa khởi động.
+[2026-10-19 10:59:27 INF] Lưu hóa đơn thành công: MaHD=3, TongTien=168000, HinhThuc=Tiền mặt
+[2026-10-19 11:08:15 INF] Ứng dụng Bán hàng quán trà sữa kết thúc.
